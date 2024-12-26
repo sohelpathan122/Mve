@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="MasterSuite">
+	<suite-files>
+		<suite-file path="C:\Users\Admin\eclipse-workspace\Maven_MSC2\First_Code.xml"></suite-file>
+			<suite-file path="C:\Users\Admin\eclipse-workspace\Maven_MSC2\Second.xml"></suite-file>
+
+</suite-files>
+</suite> <!-- Suite -->
